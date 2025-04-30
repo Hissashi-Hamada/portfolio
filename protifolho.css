@@ -50,11 +50,7 @@ body {
     margin: 0 auto;
 }
 
-.flex {
-    display: flex;}
-    .txt-topo-site{
-    display: flex;
-}
+
 
 .contato button {
     padding: 10px 40px;
@@ -114,6 +110,12 @@ header nav ul li {
     align-content: flex-start;
     align-items: center;
     justify-content: space-evenly;
+    }
+    
+    .flex {
+        display: flex;}
+        .txt-topo-site{
+        display: flex;
     }
 
 
