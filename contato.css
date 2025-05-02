@@ -34,7 +34,7 @@
         background-position: center;    /* centraliza a imagem */
         background-repeat: no-repeat;   /* evita repetições */
         background-attachment: fixed;   /* faz a imagem rolar ou ficar fixa */
-    }
+        overflow: hidden;
 }
 
 body {
